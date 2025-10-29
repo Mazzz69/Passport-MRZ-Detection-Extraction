@@ -3,8 +3,17 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# virtualenv
+venv/
+ENV/
+env/
+
 # C extensions
 *.so
+
+# Python virtual environment
+env/
+venv/
 
 # Distribution / packaging
 .Python
